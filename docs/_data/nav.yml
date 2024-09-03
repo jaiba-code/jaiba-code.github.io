@@ -1,4 +1,6 @@
 - name: Inicio
   link: /
+- name: Blog
+  link: /blog/
 - name: Acerca de
   link: /acerca/
